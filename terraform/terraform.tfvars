@@ -1,0 +1,1 @@
+image_url = "218227655627.dkr.ecr.ap-south-2.amazonaws.com/git-code:latest"
